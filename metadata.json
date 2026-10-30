@@ -1,0 +1,6 @@
+{
+  "name": "ContainerCheck AI — Shipping Container Inspection",
+  "description": "AI-powered mobile shipping container inspection platform for port operators, surveyors, and maritime logistics with offline ISO 6346 OCR, damage detection, and synchronization.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
